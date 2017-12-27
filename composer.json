@@ -1,0 +1,15 @@
+{
+  "name": "jbboynton/jb_debug",
+  "version" : "0.1.0",
+  "description": "For writing code good.",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "James Boynton",
+      "email": "james.boynton0@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  }
+}
